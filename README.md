@@ -8,7 +8,7 @@ It's the Basic Project without CRA(Create-React-App).
 
 
 ```
-sh start.sh
+npm i
 ```
 
 
