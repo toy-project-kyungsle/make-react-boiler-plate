@@ -22,3 +22,4 @@ npm i @loadable/component
 npm i --save-dev @types/loadable__component
 npm i @emotion/react @emotion/styled
 npm i @emotion/babel-plugin
+npm i axios
