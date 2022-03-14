@@ -1,6 +1,6 @@
 # Basic Node Project with React & TypeScript
 
-It's the Basic Project without CRA(Create-React-App).
+It's the Boiler plate for React without CRA(Create-React-App).
 
 ### How to use?
 
