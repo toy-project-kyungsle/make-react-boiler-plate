@@ -6,7 +6,7 @@ const SignUp = () => {
   return (
     <div id="container">
       <Header>Sleact</Header>
-      <Form >
+      <Form>
         <Label id="email-label">
           <span>이메일 주소</span>
           <div>
@@ -28,11 +28,7 @@ const SignUp = () => {
         <Label id="password-check-label">
           <span>비밀번호 확인</span>
           <div>
-            <Input
-              type="password"
-              id="password-check"
-              name="password-check"
-            />
+            <Input type="password" id="password-check" name="password-check" />
           </div>
         </Label>
         <Button type="submit">회원가입</Button>
